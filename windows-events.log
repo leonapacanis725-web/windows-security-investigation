@@ -1,0 +1,11 @@
+2026-10-03 08:14:22 EventID=4624 Account=leon SourceIP=192.168.1.24 LogonType=2
+2026-10-03 08:32:10 EventID=4625 Account=administrator SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:32:14 EventID=4625 Account=administrator SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:32:18 EventID=4625 Account=administrator SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:32:22 EventID=4625 Account=administrator SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:32:30 EventID=4624 Account=administrator SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:33:05 EventID=4672 Account=administrator SourceIP=192.168.1.77
+2026-10-03 08:36:41 EventID=4720 Account=backup_admin CreatedBy=administrator
+2026-10-03 08:40:12 EventID=4624 Account=backup_admin SourceIP=192.168.1.77 LogonType=3
+2026-10-03 08:45:51 EventID=1102 Account=administrator Action=AuditLogCleared
+2026-10-03 09:02:17 EventID=4624 Account=leon SourceIP=192.168.1.24 LogonType=2
